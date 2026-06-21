@@ -1,9 +1,6 @@
 # CS648 Mini Project — Phase Transition in Erdős–Rényi Random Graphs
 
 > **Course:** CS648 — Randomized Algorithms  
-> **Group:** 230305  
-> **Forked from:** [chaitanyavb-502/CS648-mini-project](https://github.com/chaitanyavb-502/CS648-mini-project)
-
 ---
 
 ## Overview
